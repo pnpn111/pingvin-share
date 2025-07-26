@@ -1,3 +1,11 @@
+更新中文翻译
+
+使用Docker安装时，可能需要将image替换为build：
+```
+    build:
+      context: https://github.com/pnpn111/pingvin-share.git
+```
+
 > ## ⚠️ Project Archived
 >
 > After much consideration, I've chosen to focus my limited time and energy on my other project, [Pocket ID](https://github.com/pocket-id/pocket-id). As a solo developer, I've found it difficult to actively maintain multiple open source projects with the care and attention they deserve.
